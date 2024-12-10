@@ -28,8 +28,6 @@ random_walk  <- function (n_steps) {
   
 }
 
-set.seed(50)
-
 data1 <- random_walk(500)
 
 plot1 <- ggplot(aes(x = x, y = y), data = data1) +

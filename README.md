@@ -1,6 +1,9 @@
 # Reproducible research: version control and R
 
-\# INSERT ANSWERS HERE #
+
+4. d. 
+<img width="1142" alt="image" src="https://github.com/user-attachments/assets/79b780d8-ec16-4b72-b304-0dd31b33efd4">
+
 
 ## Instructions
 

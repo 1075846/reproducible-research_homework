@@ -11,6 +11,13 @@
 
    d. <img width="1142" alt="image" src="https://github.com/user-attachments/assets/79b780d8-ec16-4b72-b304-0dd31b33efd4">
 
+5. a. The table has 33 rows and 13 columns.
+
+   b. A log transformation can be used. See question-5-data/Question5.R
+
+   c. α = 1181.807 (p = 2.28e-10), which is the exponent of the intercept of the linear model. The value in Table 2 was 1182 (246–5,675). β = 1.5152 (p = 6.44e-10), which is the gradient. Both p-values demonstrate statistical significance, as they are below 0.05. The value in Table 2 was 1.52 (1.16–1.87). My calculated values are very similar to the values in Table 2, and are within the confidence intervals. 
+  
+   d. See question-5-data/Question5.R
 
 ## Instructions
 

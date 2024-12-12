@@ -1,6 +1,27 @@
 # Reproducible research: version control and R
+1. https://github.com/1075846/logistic_growth/blob/main/README.md
 
-\# INSERT ANSWERS HERE #
+2. https://github.com/1075846/logistic_growth/blob/main/README.md
+
+3. https://github.com/1075846/logistic_growth/blob/main/README.md
+
+4. a. The code produces two randomly generated graphs showing "random walks". The walk angle is determined by a random number generator, which generates a different number (and therefore angle) after every step. There are 500 steps, each step has a length of 0.25 units. The darker the color, the further along in time (more steps). Because the code uses randomly generated values, each time the code is run the walk pattern changes. Therefore, different plots are generated every time.
+
+   b. Random seeds are values determine the starting point for the generation of pseudo-random values in a simulation. The generation of numbers using random seeds is performed by a deterministic algorithm, so the numbers only appear random. This means when a seed is set in R code, the same values will be generated every time the code is run. Therefore, incorporating seeds into R code is important for making research simulations reproducible.
+
+   c. https://github.com/1075846/reproducible-research_homework/blob/dev/question-4-code/random_walk.R
+
+   d. <img width="1142" alt="image" src="https://github.com/user-attachments/assets/79b780d8-ec16-4b72-b304-0dd31b33efd4">
+
+5. a. The table has 33 rows and 13 columns.
+
+   b. A log transformation can be used. https://github.com/1075846/reproducible-research_homework/blob/dev/Question5.R
+
+   c. α = 1181.807 (p = 2.28e-10), which is the exponent of the intercept of the linear model. The corresponding value in Table 2 was 1182 (246–5,675). β = 1.5152 (p = 6.44e-10), which is the gradient. The corresponding value in Table 2 was 1.52 (1.16–1.87). Both p-values demonstrate statistical significance, as they are below 0.05. Furthermore, my calculated values are very similar to the values in Table 2, and are within the confidence intervals. 
+  
+   d. https://github.com/1075846/reproducible-research_homework/blob/dev/Question5.R
+
+   e. The estimated volume of a 300 kb dsDNA virus is 6697006nm^3. 
 
 ## Instructions
 

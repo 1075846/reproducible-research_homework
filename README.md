@@ -15,11 +15,11 @@
 
 5. a. The table has 33 rows and 13 columns.
 
-   b. A log transformation can be used. https://github.com/1075846/reproducible-research_homework/blob/dev/Question5.R
+   b. A log transformation can be used. https://github.com/1075846/reproducible-research_homework/blob/main/Question5.R
 
    c. α = 1181.807 (p = 2.28e-10), which is the exponent of the intercept of the linear model. The corresponding value in Table 2 was 1182 (246–5,675). β = 1.5152 (p = 6.44e-10), which is the gradient. The corresponding value in Table 2 was 1.52 (1.16–1.87). Both p-values demonstrate statistical significance, as they are below 0.05. Furthermore, my calculated values are very similar to the values in Table 2, and are within the confidence intervals. 
   
-   d. https://github.com/1075846/reproducible-research_homework/blob/dev/Question5.R
+   d. https://github.com/1075846/reproducible-research_homework/blob/main/Question5.R
 
    e. The estimated volume of a 300 kb dsDNA virus is 6697006nm^3. 
 

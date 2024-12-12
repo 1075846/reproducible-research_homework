@@ -25,6 +25,7 @@ exp(7.0748)
 #β = 1.5152
   #p = 6.44e-10 
 
+#Replicating the plot:
 ggplot(virus_data, aes(x = Log.Genome.length, y = Log.Virion.volume)) +
   geom_point() +
   geom_smooth(method = "lm", color = "blue", se = TRUE) +

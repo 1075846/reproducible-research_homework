@@ -17,7 +17,7 @@
 
    b. A log transformation can be used. https://github.com/1075846/reproducible-research_homework/blob/dev/Question5.R
 
-   c. α = 1181.807 (p = 2.28e-10), which is the exponent of the intercept of the linear model. The corresponding value in Table 2 was 1182 (246–5,675). β = 1.5152 (p = 6.44e-10), which is the gradient. Both p-values demonstrate statistical significance, as they are below 0.05. The corresponding value in Table 2 was 1.52 (1.16–1.87). My calculated values are very similar to the values in Table 2, and are within the confidence intervals. 
+   c. α = 1181.807 (p = 2.28e-10), which is the exponent of the intercept of the linear model. The corresponding value in Table 2 was 1182 (246–5,675). β = 1.5152 (p = 6.44e-10), which is the gradient. The corresponding value in Table 2 was 1.52 (1.16–1.87). Both p-values demonstrate statistical significance, as they are below 0.05. Furthermore, my calculated values are very similar to the values in Table 2, and are within the confidence intervals. 
   
    d. https://github.com/1075846/reproducible-research_homework/blob/dev/Question5.R
 

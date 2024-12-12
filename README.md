@@ -1,9 +1,9 @@
 # Reproducible research: version control and R
-1. https://github.com/1075846/logistic_growth/blob/main/README.md
+1. https://github.com/1075846/logistic_growth
 
-2. https://github.com/1075846/logistic_growth/blob/main/README.md
+2. https://github.com/1075846/logistic_growth
 
-3. https://github.com/1075846/logistic_growth/blob/main/README.md
+3. https://github.com/1075846/logistic_growth
 
 4. a. The code produces two randomly generated graphs showing "random walks". The walk angle is determined by a random number generator, which generates a different number (and therefore angle) after every step. There are 500 steps, each step has a length of 0.25 units. The darker the color, the further along in time (more steps). Because the code uses randomly generated values, each time the code is run the walk pattern changes. Therefore, different plots are generated every time.
 

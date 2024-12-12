@@ -9,7 +9,7 @@
 
    b. Random seeds are values determine the starting point for the generation of pseudo-random values in a simulation. The generation of numbers using random seeds is performed by a deterministic algorithm, so the numbers only appear random. This means when a seed is set in R code, the same values will be generated every time the code is run. Therefore, incorporating seeds into R code is important for making research simulations reproducible.
 
-   c. https://github.com/1075846/reproducible-research_homework/blob/dev/question-4-code/random_walk.R
+   c. https://github.com/1075846/reproducible-research_homework/blob/main/question-4-code/random_walk.R
 
    d. <img width="1142" alt="image" src="https://github.com/user-attachments/assets/79b780d8-ec16-4b72-b304-0dd31b33efd4">
 

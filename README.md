@@ -5,7 +5,7 @@
 
 3. https://github.com/1075846/logistic_growth
 
-4. a. The code produces two randomly generated graphs showing "random walks". The walk angle is determined by a random number generator, which generates a different number (and therefore angle) after every step. There are 500 steps, each step has a length of 0.25 units. The darker the color, the further along in time (more steps). Because the code uses randomly generated values, each time the code is run the walk pattern changes. Therefore, different plots are generated every time.
+4. a. The code produces two randomly generated graphs showing "random walks". The walk angle is determined by a random number generator, which generates a different number (and therefore angle) after every step. There are 500 steps, each step has a length of 0.25 units. The darker the colour, the further along in time (more steps). Because the code uses randomly generated values, each time the code is run the walk pattern changes. Therefore, different plots are generated every time.
 
    b. Random seeds are values determine the starting point for the generation of pseudo-random values in a simulation. The generation of numbers using random seeds is performed by a deterministic algorithm, so the numbers only appear random. This means when a seed is set in R code, the same values will be generated every time the code is run. Therefore, incorporating seeds into R code is important for making research simulations reproducible.
    (https://r-coder.com/set-seed-r/)

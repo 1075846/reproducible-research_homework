@@ -21,6 +21,8 @@
   
    d. https://github.com/1075846/reproducible-research_homework/blob/dev/Question5.R
 
+   e. The estimated volume of a 300 kb dsDNA virus is 6697006nm^3. 
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points. First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
